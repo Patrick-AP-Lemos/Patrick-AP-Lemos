@@ -28,10 +28,11 @@ Gosto de aprender na prática, resolver problemas e transformar ideias em projet
 
 🌐 Onde me encontrar
 
-<p align="center">
-
-<a href="https://github.com/Patrick-AP-Lemos"> <img src="https://img.shields.io/badge/GitHub-Patrick--AP--Lemos-181717?style=for-the-badge&logo=github"/> </a>
-
-<a href="https://www.linkedin.com/in/patrick-andrei-pinheiro-de-lemos-783a04227/"> <img src="https://img.shields.io/badge/LinkedIn-Patrick%20Lemos-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/patrick-andrei-pinheiro-de-lemos-783a04227" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:patrickpinheiro2830@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
