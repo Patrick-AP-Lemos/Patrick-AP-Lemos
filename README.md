@@ -26,14 +26,6 @@ Gosto de aprender na prática, resolver problemas e transformar ideias em projet
 
 ---
 
-📊 GitHub Stats
-
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrick-AP-Lemos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-AP-Lemos&layout=compact&langs_count=8&theme=tokyonight"/> </p>
-
-📈 Contribution Streak
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Patrick-AP-Lemos&theme=tokyonight&hide_border=false"/> </p>
-
 🌐 Onde me encontrar
 
 <p align="center">
